@@ -16,6 +16,7 @@ body{
   display: flex;
   gap: 30px;
   flex-wrap: wrap;
+  justify-content: center;
 }
 .card{
   height: 330px;

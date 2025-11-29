@@ -6,7 +6,7 @@ const card = (props) => {
         <div className='card'>
        <div>
          <div className='top'>
-          <img src={props.brandlogo} alt='dsdsc'/>
+          <img src={props.brandLogo} alt='dsdsc'/>
           <button> Save <Bookmark size={12}/> </button>
         </div>
         <div className='centre'>

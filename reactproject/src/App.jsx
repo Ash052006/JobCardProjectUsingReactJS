@@ -4,7 +4,7 @@ import Card from './components/card'
 const App = () => {
   const jobOpenings = [
   {
-    brandLogo: "https://upload.wikimedia.org/wikipedia/commons/3/39/Meta_Platforms_Inc._logo.svg",
+    brandLogo: "https://s3-figma-hubfile-images-production.figma.com/hub/file/carousel/img/62059c1aa9f12d2a785b6246f869465672cecc9a",
     companyName: "Meta",
     datePosted: "5 days ago",
     post: "Frontend Engineer",
